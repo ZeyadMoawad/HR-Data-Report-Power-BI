@@ -27,6 +27,9 @@ This Power BI report provides a comprehensive analysis of employee data, focusin
 5. Employee living Distance from office divided into categories.
 6. Number of employees due to those not due for promotion Per Job Roles
 7. Names of Employees due for promotion to those due for retirement within the company across departments and job Roles.
+# Data Preparation
+# Data Modeling
+# Data Visualization
 # Some insights from the Analysis
 - There are a total of 1470 employees, 882 of which are males and 588 are females.
 - 72 out of all employees were due for promotion.
