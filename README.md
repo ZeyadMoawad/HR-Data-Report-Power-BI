@@ -11,7 +11,7 @@
  - [Data Modeling](https://github.com/ZeyadMoawad/HR-Data-Report-Power-BI/blob/main/README.md#data-modeling)
    
  
- - [Data Visualization]()
+ - [Data Visualization](https://github.com/ZeyadMoawad/HR-Data-Report-Power-BI/blob/main/README.md#data-visualization)
  
  - [Data Analysis & Insights](https://github.com/ZeyadMoawad/HR-Data-Report-Power-BI/blob/main/README.md#some-insights-from-the-analysis)
  
