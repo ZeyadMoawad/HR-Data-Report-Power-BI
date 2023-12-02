@@ -18,13 +18,13 @@
 # Overview
 This Power BI report provides a comprehensive analysis of employee data, focusing on three main aspects: General Information, Attrition, and Others. The report is designed to offer insights into employee demographics, attrition rates, and promotions/layoffs .
 # Problem Statement
-1- Percentage of Male to Female employees present.
-2- Number of employees due to those not due for promotion Per Department.
-3- Number of employees due for retirement Per Department.
-4-Percentage of Employee job satisfaction per category.
-5- Employee living Distance from office divided into categories.
-6- Number of employees due to those not due for promotion Per Job Roles
-7- Names of Employees due for promotion to those due for retirement within the company across departments and job Roles.
+1. Percentage of Male to Female employees present.
+2. Number of employees due to those not due for promotion Per Department.
+3. Number of employees due for retirement Per Department.
+4. Percentage of Employee job satisfaction per category.
+5. Employee living Distance from office divided into categories.
+6. Number of employees due to those not due for promotion Per Job Roles
+7. Names of Employees due for promotion to those due for retirement within the company across departments and job Roles.
 # Some insights from the Analysis
 - There are a total of 1470 employees, 882 of which are males and 588 are females.
 - 72 out of all employees were due for promotion.
