@@ -15,6 +15,8 @@
  - [Data Analysis & Insights]()
  
  - [Shareable link]()
+   
+ - [Demo]()
 # Overview
 This Power BI report provides a comprehensive analysis of employee data, focusing on three main aspects: General Information, Attrition, and Others. The report is designed to offer insights into employee demographics, attrition rates, and promotions/layoffs .
 # Problem Statement
@@ -37,5 +39,7 @@ This Power BI report provides a comprehensive analysis of employee data, focusin
 # Shareable Link
 You can interact with the report here:
 [View Report]() 
+# Demo
+https://github.com/ZeyadMoawad/HR-Data-Report-Power-BI/assets/96973429/7007aae8-530f-4a9a-ab80-02d8ae956d14
 
 
