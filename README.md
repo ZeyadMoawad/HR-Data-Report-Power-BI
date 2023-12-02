@@ -12,7 +12,7 @@
  
  - [Data Visualization]()
  
- - [Data Analysis & Insights]()
+ - [Data Analysis & Insights](https://github.com/ZeyadMoawad/HR-Data-Report-Power-BI/blob/main/README.md#some-insights-from-the-analysis)
  
  - [Shareable link](https://github.com/ZeyadMoawad/HR-Data-Report-Power-BI/blob/main/README.md#shareable-link)
    
