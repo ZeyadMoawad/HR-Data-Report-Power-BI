@@ -8,7 +8,7 @@
  
  - [Data Preparation](https://github.com/ZeyadMoawad/HR-Data-Report-Power-BI/tree/main#data-preparation)
    
- - [Data Modeling]()
+ - [Data Modeling](https://github.com/ZeyadMoawad/HR-Data-Report-Power-BI/blob/main/README.md#data-modeling)
    
  
  - [Data Visualization]()
