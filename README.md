@@ -6,7 +6,7 @@
  
  - [Problem Statement](https://github.com/ZeyadMoawad/HR-Data-Report-Power-BI/blob/main/README.md#problem-statement)
  
- - [Data Preparation]()
+ - [Data Preparation](https://github.com/ZeyadMoawad/HR-Data-Report-Power-BI/tree/main#data-preparation)
    
  - [Data Modeling]()
    
