@@ -34,7 +34,7 @@ Data Cleaning: deleting redundant columns, renaming the columns, dropping duplic
 ![Modeling](https://github.com/ZeyadMoawad/HR-Data-Report-Power-BI/assets/96973429/f6758415-85c4-42d5-8c25-681a9e4b089b)
 
 # Data Visualization
-The Report Comprises of 3 Pages:
+#### The Report Comprises of 3 Pages:
 1. Home
 
 ![Screenshot](https://github.com/ZeyadMoawad/HR-Data-Report-Power-BI/assets/96973429/92a74f25-013a-4a71-b5cc-0965c0c9aade)
