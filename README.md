@@ -28,8 +28,26 @@ This Power BI report provides a comprehensive analysis of employee data, focusin
 6. Number of employees due to those not due for promotion Per Job Roles
 7. Names of Employees due for promotion to those due for retirement within the company across departments and job Roles.
 # Data Preparation
+Data Cleaning: deleting redundant columns, renaming the columns, dropping duplicates, cleaning individual columns, removing blank values from the dataset and check for some more transformations
 # Data Modeling
+![Modeling](https://github.com/ZeyadMoawad/HR-Data-Report-Power-BI/assets/96973429/f6758415-85c4-42d5-8c25-681a9e4b089b)
+
 # Data Visualization
+The Report Comprises of 3 Pages:
+1. Home
+
+![Screenshot](https://github.com/ZeyadMoawad/HR-Data-Report-Power-BI/assets/96973429/92a74f25-013a-4a71-b5cc-0965c0c9aade)
+
+3. Action
+
+![Action](https://github.com/ZeyadMoawad/HR-Data-Report-Power-BI/assets/96973429/3553924a-43bc-4895-9e4a-d39bf0b07202)
+
+4. Details
+
+![Details](https://github.com/ZeyadMoawad/HR-Data-Report-Power-BI/assets/96973429/74497be8-5f0f-4dc6-9db8-791e5d61d90e)
+
+
+
 # Some insights from the Analysis
 - There are a total of 1470 employees, 882 of which are males and 588 are females.
 - 72 out of all employees were due for promotion.
