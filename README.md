@@ -2,7 +2,7 @@
 ![Screenshot 2023-12-02 173106](https://github.com/ZeyadMoawad/HR-Data-Report-Power-BI/assets/96973429/e52c8da9-b545-4be6-85e8-2e1eeb2294de)
 
 # Table of Contents
- - [Overview]()
+ - [Overview](https://github.com/ZeyadMoawad/HR-Data-Report-Power-BI/blob/main/README.md#overview)
  
  - [Problem Statement]()
  
