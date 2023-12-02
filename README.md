@@ -16,7 +16,7 @@
  
  - [Shareable link]()
    
- - [Demo]()
+ - [Demo](https://github.com/ZeyadMoawad/HR-Data-Report-Power-BI/blob/main/README.md#demo)
 # Overview
 This Power BI report provides a comprehensive analysis of employee data, focusing on three main aspects: General Information, Attrition, and Others. The report is designed to offer insights into employee demographics, attrition rates, and promotions/layoffs .
 # Problem Statement
