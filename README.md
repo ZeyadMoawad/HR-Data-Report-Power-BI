@@ -60,7 +60,7 @@ Data Cleaning: deleting redundant columns, renaming the columns, dropping duplic
 
 # Shareable Link
 You can interact with the report here:
-[View Report]() 
+[View Report](https://app.powerbi.com/view?r=eyJrIjoiMjE2YjRjZDEtZGU1Ni00ZTg0LTkxNDItNTMzODU0NDhjZjc4IiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9) 
 # Demo
 https://github.com/ZeyadMoawad/HR-Data-Report-Power-BI/assets/96973429/7007aae8-530f-4a9a-ab80-02d8ae956d14
 
